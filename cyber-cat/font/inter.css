@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Samsung';
+  src: url('/font/SAMSUNGSHARPSANS-MEDIUM.OTF') format('opentype');
+}
+
+@font-face {
+  font-family: 'Samsung';
+  font-weight: bold;
+  src: url('/font/SamsungSharpSansBd.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Sabo Filled';
+  src: url('/font/SABO-FILLED.OTF') format('opentype');
+}
