@@ -50,6 +50,8 @@ The Jet Bot is always on the move - even when things get crazy. Steer the smart 
 
 ### Black Weeks Invaders
 
+![Black Weeks Invaders](./assets/invaders/teaser.png)
+
 | From | Black Friday 2022 |
 |:-----|:------------------|
 | ID   | 1                 |
