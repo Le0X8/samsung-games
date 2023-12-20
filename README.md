@@ -28,7 +28,7 @@ The Jet Bot is always on the move - even when things get crazy. Steer the smart 
 #### Play
 
 - [EN](https://sg.leox.dev/?version=2022&gameid=0&lang=en)
-- [DE](https://sg.le0x8.com/?version=2022&gameid=0&lang=de)
+- [DE](https://sg.leox.dev/?version=2022&gameid=0&lang=de)
 - [FR](https://sg.le0x8.com/?version=2022&gameid=0&lang=fr)
 - [IT](https://sg.le0x8.com/?version=2022&gameid=0&lang=it)
 - [ES](https://sg.le0x8.com/?version=2022&gameid=0&lang=es)
